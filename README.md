@@ -1,2 +1,2 @@
-# big_data_science
+# Big Data Science
 General Data Scientist tasks
